@@ -180,4 +180,6 @@ buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
 
+.idea
+
 # End of https://www.gitignore.io/api/java,maven,linux,intellij,intellij+iml
